@@ -6,7 +6,7 @@
 </head>
 <body>
 	<form>
-		Project Name:<input type="text" name="project team" id="P1"><br>
+		Project Name:<input type="text" name="project team ash" id="P1"><br>
 		<br>
 		Scrum Master:<input type="text" name="Scrum" id="s1"><br>
 		<br>
